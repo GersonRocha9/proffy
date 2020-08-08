@@ -34,7 +34,7 @@ ou
 
 #### Front-End - Web
 
-1. Clone este repositório com ```git clone https://github.com/gersonrocha9/proffy.git```
+1. Clone este repositório com ```git clone https://github.com/gersonrocha9/proffy-app.git```
 
 1. Acesse a pasta do projeto com ```cd proffy```
 
