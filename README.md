@@ -1,18 +1,18 @@
 <div align="center">
     <h1>:book: Proffy</h1>
-    <p>A sua plataforma de estudos online.</p>
+    <p>Your online study platform.</p>
     <img src="./images-readme/capa.png">
 </div>
 
 
-## :scroll: Sobre o projeto
+## :scroll: About the project
 
-O Proffy é uma plataforma de estudos online criada durante o Next Level Week #2. O NLW é um evento disponibilizado pela rocketseat que visa levar os devs para um próximo nível.
+Proffy is an online study platform created during Next Level Week #2. NLW is an event made available by rocketseat that aims to take devs to the next level.
 
 
 ## :artificial_satellite: Tecnologias
 
-Para desenvolver este projeto utilizamos as seguintes tecnologias:
+The following technologies were used to develop this project:
 
 - ReactJS - Front-End
     - Typescript
@@ -24,37 +24,35 @@ Para desenvolver este projeto utilizamos as seguintes tecnologias:
 - React Native - Mobile
 
 
-## :rocket: Utilização
+## :rocket: Test
 
-**Você pode acessar esta plataforma clicando [aqui](https://proffy-app.netlify.app/).**
+**You can access this platform by clicking [here](https://proffy-app.netlify.app/).**
 
 ou
 
-### Rodar projeto localmente
+### Run project
 
 #### Front-End - Web
 
-1. Clone este repositório com ```git clone https://github.com/gersonrocha9/proffy-app.git```
+1. Clone this repository with ```git clone https://github.com/gersonrocha9/proffy-app.git```
 
-1. Acesse a pasta do projeto com ```cd proffy```
+2. Access the project folder with ```cd proffy```
 
-1. Instale as dependências do projeto com ```npm install``` ou ```yarn install```
+3. Install project dependencies with ```npm install``` ou ```yarn install```
 
-1. Inicie o projeto com ````npm start``` ou ```yarn start```
+4. Start the project with ````npm start``` ou ```yarn start```
 
-5. Caso não abra um página web em seu navegador, acesse ```http://localhost:3000```
+5. If you don't open a web page in your browser, go to ```http://localhost:3000```
 
 
 ## Back-End
 
-1. Se você não clonou este respositório ainda, clone ele seguindo o 1° passo do front-end.
+1. If you haven't cloned this repository yet, clone it following the 1st step of the front-end.
 
-1. Acesse a pasta ```server```
+2. Access the folder ```server```
 
-1. Rode ```npm install``` ou ```yarn install``` para instalar as dependências do projeto.
+3. Run ```npm install``` ou ```yarn install``` to install project dependencies.
 
-1. Rode ```npm knex:migrate``` ou ```yarn knex:migrate``` para criar o banco de dados.
+4. Run ```npm knex:migrate``` ou ```yarn knex:migrate``` to create the database.
 
-1. Instale 
-
-1. Inicie o projeto com ``````
+5. Start the project with ````npm start``` ou ```yarn start```
